@@ -1,0 +1,1 @@
+const util_trc3 = (d: any) => d;
